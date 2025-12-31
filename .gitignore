@@ -1,4 +1,3 @@
-.*
 *.log
 *.iml
 package-lock.json
