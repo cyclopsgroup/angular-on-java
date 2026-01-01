@@ -30,7 +30,7 @@
     "@angular/cli": "10.0.0",
     "@angular/compiler": "10.0.2",
     "@angular/compiler-cli": "10.0.2",
-    "@babel/cli": "^7.6.0",
+    "@babel/cli": "^7.28.3",
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
     "@bazel/angular": "^3.2.0",
